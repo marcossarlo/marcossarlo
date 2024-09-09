@@ -1,4 +1,4 @@
-![IMG_20230427_171628_824](https://github.com/user-attachments/assets/00464335-7393-43e6-8d21-7e4f0b15503b)
+![IMG-20240808-WA0092_moodle](https://github.com/user-attachments/assets/b18b23e8-f1a0-4fb0-9365-9440ec400830)
 ## Hola, mi nombre es MarcosSarLo 👋
 Soy Ingeniero Informático, especializado en la implementación y gestión de plataformas eLearning basadas en Moodle, así como en el desarrollo de proyectos web utilizando Joomla y el framework Astro.
 
