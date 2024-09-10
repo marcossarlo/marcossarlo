@@ -1,8 +1,8 @@
 ![IMG-20240808-WA0092_moodle](https://github.com/user-attachments/assets/b18b23e8-f1a0-4fb0-9365-9440ec400830)
 ## Hola, mi nombre es MarcosSarLo 👋
-Soy Ingeniero Informático, especializado en la implementación y gestión de plataformas eLearning basadas en Moodle, así como en el desarrollo de proyectos web utilizando Joomla y el framework Astro.
+Soy Ingeniero Informático, especializado en la implementación y gestión de plataformas eLearning basadas en Moodle, así como en el desarrollo de proyectos web utilizando Joomla.
 
-Tengo un gran interés en profundizar mis conocimientos en ciberseguridad, desarrollo Frontend con HTML, CSS y JavaScript, y Backend con PHP. Además, busco especializarme en SEO y aprender Python para adentrarme más en el campo de la inteligencia artificial (AI).
+Tengo un gran interés en profundizar mis conocimientos en ciberseguridad, desarrollo Frontend con HTML, CSS y JavaScript y framework Astro, y Backend con PHP. Además, busco especializarme en SEO y aprender Python para adentrarme más en el campo de la inteligencia artificial (AI).
 
 Actualmente, continúo mi formación en Platzi, una plataforma que me está ayudando a fortalecer y desarrollar mis habilidades en estas áreas de interés.
 
