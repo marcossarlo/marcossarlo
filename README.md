@@ -1,6 +1,13 @@
-![IMG-20240808-WA0092_moodle](https://github.com/user-attachments/assets/b18b23e8-f1a0-4fb0-9365-9440ec400830)
 ## Hola, soy MarcosSarLo 👋
-Soy Ingeniero Informático, especializado en la implementación y gestión de plataformas eLearning basadas en Moodle, así como en el desarrollo de proyectos web utilizando Joomla.
+![IMG-20240808-WA0092_moodle](https://github.com/user-attachments/assets/b18b23e8-f1a0-4fb0-9365-9440ec400830)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/marcossarlo/curso-python-platzi)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.fondoverde.org%2F)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmarcossarlo)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/marcossarlo)
+
+
+> Soy Ingeniero Informático, especializado en la implementación y gestión de plataformas eLearning basadas en Moodle, así como en el desarrollo de proyectos web utilizando Joomla.
+
 
 Tengo un gran interés en profundizar mis conocimientos en ciberseguridad, desarrollo Frontend con HTML, CSS y JavaScript y framework Astro, y Backend con PHP. Además, busco especializarme en SEO y aprender Python para adentrarme más en el campo de la inteligencia artificial (AI).
 
